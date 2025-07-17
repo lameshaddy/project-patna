@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+patna.dcourts.gov.in	TRUE	/	FALSE	1999999999	PHPSESSID	9lm38ug71l1fjp5p8tpcdtf79c
+patna.dcourts.gov.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+

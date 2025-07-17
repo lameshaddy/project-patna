@@ -1,0 +1,680 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Jul 2025 21:58:42 at https://patna.dcourts.gov.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://patna.dcourts.gov.in/ -O1 "C:\Users\kamil\OneDrive\Desktop\patna" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:58:44	Warning: 	Note: due to https://patna.dcourts.gov.in remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:59:11	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/xmlrpc.php (from https://patna.dcourts.gov.in/)
+21:59:54	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/ (from https://patna.dcourts.gov.in/)
+21:59:54	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5145 (from https://patna.dcourts.gov.in/)
+21:59:54	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/xmlrpc.php?rsd (from https://patna.dcourts.gov.in/)
+21:59:54	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2F (from https://patna.dcourts.gov.in/)
+21:59:54	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2F&format=xml (from https://patna.dcourts.gov.in/)
+22:00:55	Error: 	"Error when decompressing" (-1) at link https://patna.dcourts.gov.in/cause-list-⁄-daily-board/ (from https://patna.dcourts.gov.in/)
+22:01:30	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/document/policy-action-plan-document-phase-ii/ (from https://patna.dcourts.gov.in/)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/fonts/flexslider-icon.ttf (from https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/addons/sliderhelper.css?ver=6.8.1)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/fonts/flexslider-icon.svg (from https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/addons/sliderhelper.css?ver=6.8.1)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/addons/blank.gif (from https://patna.dcourts.gov.in/wp-content/themes/sdo-theme/css/addons/sliderhelper.css?ver=6.8.1)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/images/ui-icons_555555_256x240.png (from https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/jquery.ui.datepicker.css?ver=1.0)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/images/ui-icons_ffffff_256x240.png (from https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/jquery.ui.datepicker.css?ver=1.0)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/images/ui-icons_777620_256x240.png (from https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/jquery.ui.datepicker.css?ver=1.0)
+22:01:38	Error: 	"Not Found" (404) at link https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/images/ui-icons_cc0000_256x240.png (from https://patna.dcourts.gov.in/wp-content/plugins/awaas-metaboxes/css/jquery.ui.datepicker.css?ver=1.0)
+22:01:39	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/711 (from https://patna.dcourts.gov.in/sitemap/)
+22:01:39	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=711
+22:01:39	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=711 to https://patna.dcourts.gov.in/sitemap/
+22:01:39	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fsitemap%2F (from https://patna.dcourts.gov.in/sitemap/)
+22:01:39	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fsitemap%2F&format=xml (from https://patna.dcourts.gov.in/sitemap/)
+22:01:39	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/about-department/5859 (from https://patna.dcourts.gov.in/about-department/history/)
+22:01:39	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5859
+22:01:39	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5859 to https://patna.dcourts.gov.in/about-department/history/
+22:01:39	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fabout-department%2Fhistory%2F (from https://patna.dcourts.gov.in/about-department/history/)
+22:01:40	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fabout-department%2Fhistory%2F&format=xml (from https://patna.dcourts.gov.in/about-department/history/)
+22:01:40	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5010 (from https://patna.dcourts.gov.in/list-of-judges/)
+22:01:40	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5010
+22:01:40	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5010 to https://patna.dcourts.gov.in/list-of-judges/
+22:01:40	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Flist-of-judges%2F (from https://patna.dcourts.gov.in/list-of-judges/)
+22:01:40	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Flist-of-judges%2F&format=xml (from https://patna.dcourts.gov.in/list-of-judges/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5012 (from https://patna.dcourts.gov.in/former-judges/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5012
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5012 to https://patna.dcourts.gov.in/former-judges/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fformer-judges%2F (from https://patna.dcourts.gov.in/former-judges/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fformer-judges%2F&format=xml (from https://patna.dcourts.gov.in/former-judges/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5015 (from https://patna.dcourts.gov.in/judges-on-leave/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5015
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5015 to https://patna.dcourts.gov.in/judges-on-leave/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fjudges-on-leave%2F (from https://patna.dcourts.gov.in/judges-on-leave/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fjudges-on-leave%2F&format=xml (from https://patna.dcourts.gov.in/judges-on-leave/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5017 (from https://patna.dcourts.gov.in/holiday-list/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5017
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5017 to https://patna.dcourts.gov.in/holiday-list/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fholiday-list%2F (from https://patna.dcourts.gov.in/holiday-list/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fholiday-list%2F&format=xml (from https://patna.dcourts.gov.in/holiday-list/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/721 (from https://patna.dcourts.gov.in/contact-us/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=721
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=721 to https://patna.dcourts.gov.in/contact-us/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcontact-us%2F (from https://patna.dcourts.gov.in/contact-us/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcontact-us%2F&format=xml (from https://patna.dcourts.gov.in/contact-us/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5021 (from https://patna.dcourts.gov.in/high-court/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5021
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5021 to https://patna.dcourts.gov.in/high-court/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fhigh-court%2F (from https://patna.dcourts.gov.in/high-court/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fhigh-court%2F&format=xml (from https://patna.dcourts.gov.in/high-court/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5076 (from https://patna.dcourts.gov.in/case-status-search-by-case-number/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5076
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5076 to https://patna.dcourts.gov.in/case-status-search-by-case-number/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-case-number%2F (from https://patna.dcourts.gov.in/case-status-search-by-case-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-case-number%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-case-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5201 (from https://patna.dcourts.gov.in/case-status-search-by-case-type/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5201
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5201 to https://patna.dcourts.gov.in/case-status-search-by-case-type/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-case-type%2F (from https://patna.dcourts.gov.in/case-status-search-by-case-type/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-case-type%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-case-type/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5190 (from https://patna.dcourts.gov.in/case-status-search-by-fir-number/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5190
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5190 to https://patna.dcourts.gov.in/case-status-search-by-fir-number/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-fir-number%2F (from https://patna.dcourts.gov.in/case-status-search-by-fir-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-fir-number%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-fir-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5197 (from https://patna.dcourts.gov.in/case-status-search-by-filing-number/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5197
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5197 to https://patna.dcourts.gov.in/case-status-search-by-filing-number/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-filing-number%2F (from https://patna.dcourts.gov.in/case-status-search-by-filing-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-filing-number%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-filing-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5192 (from https://patna.dcourts.gov.in/case-status-search-by-petitioner-respondent/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5192
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5192 to https://patna.dcourts.gov.in/case-status-search-by-petitioner-respondent/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-petitioner-respondent%2F (from https://patna.dcourts.gov.in/case-status-search-by-petitioner-respondent/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-petitioner-respondent%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-petitioner-respondent/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5195 (from https://patna.dcourts.gov.in/case-status-search-by-advocate/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5195
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5195 to https://patna.dcourts.gov.in/case-status-search-by-advocate/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-advocate%2F (from https://patna.dcourts.gov.in/case-status-search-by-advocate/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-advocate%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-advocate/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5199 (from https://patna.dcourts.gov.in/case-status-search-by-act-type/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5199
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5199 to https://patna.dcourts.gov.in/case-status-search-by-act-type/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-act-type%2F (from https://patna.dcourts.gov.in/case-status-search-by-act-type/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcase-status-search-by-act-type%2F&format=xml (from https://patna.dcourts.gov.in/case-status-search-by-act-type/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5203 (from https://patna.dcourts.gov.in/court-orders-search-by-case-number/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5203
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5203 to https://patna.dcourts.gov.in/court-orders-search-by-case-number/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-case-number%2F (from https://patna.dcourts.gov.in/court-orders-search-by-case-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-case-number%2F&format=xml (from https://patna.dcourts.gov.in/court-orders-search-by-case-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5209 (from https://patna.dcourts.gov.in/court-orders-search-by-order-date/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5209
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5209 to https://patna.dcourts.gov.in/court-orders-search-by-order-date/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-order-date%2F (from https://patna.dcourts.gov.in/court-orders-search-by-order-date/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-order-date%2F&format=xml (from https://patna.dcourts.gov.in/court-orders-search-by-order-date/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5205 (from https://patna.dcourts.gov.in/court-orders-search-by-court-number/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5205
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5205 to https://patna.dcourts.gov.in/court-orders-search-by-court-number/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-court-number%2F (from https://patna.dcourts.gov.in/court-orders-search-by-court-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-court-number%2F&format=xml (from https://patna.dcourts.gov.in/court-orders-search-by-court-number/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5207 (from https://patna.dcourts.gov.in/court-orders-search-by-party-name/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5207
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5207 to https://patna.dcourts.gov.in/court-orders-search-by-party-name/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-party-name%2F (from https://patna.dcourts.gov.in/court-orders-search-by-party-name/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcourt-orders-search-by-party-name%2F&format=xml (from https://patna.dcourts.gov.in/court-orders-search-by-party-name/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5289 (from https://patna.dcourts.gov.in/caveat-search/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5289
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5289 to https://patna.dcourts.gov.in/caveat-search/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcaveat-search%2F (from https://patna.dcourts.gov.in/caveat-search/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fcaveat-search%2F&format=xml (from https://patna.dcourts.gov.in/caveat-search/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/172 (from https://patna.dcourts.gov.in/documents/)
+22:03:03	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=172
+22:03:03	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=172 to https://patna.dcourts.gov.in/documents/
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocuments%2F (from https://patna.dcourts.gov.in/documents/)
+22:03:03	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocuments%2F&format=xml (from https://patna.dcourts.gov.in/documents/)
+22:03:06	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/6176 (from https://patna.dcourts.gov.in/forms/)
+22:03:06	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6176
+22:03:06	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6176 to https://patna.dcourts.gov.in/forms/
+22:03:06	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fforms%2F (from https://patna.dcourts.gov.in/forms/)
+22:03:06	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fforms%2F&format=xml (from https://patna.dcourts.gov.in/forms/)
+22:03:06	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/circular-notices/feed/ (from https://patna.dcourts.gov.in/document-category/circular-notices/)
+22:03:06	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1104 (from https://patna.dcourts.gov.in/document-category/circular-notices/)
+22:03:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/management-tools/feed/ (from https://patna.dcourts.gov.in/document-category/management-tools/)
+22:03:07	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1108 (from https://patna.dcourts.gov.in/document-category/management-tools/)
+22:03:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/notification/feed/ (from https://patna.dcourts.gov.in/document-category/notification/)
+22:03:07	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1102 (from https://patna.dcourts.gov.in/document-category/notification/)
+22:03:08	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/performance-measurement-report/feed/ (from https://patna.dcourts.gov.in/document-category/performance-measurement-report/)
+22:03:08	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1112 (from https://patna.dcourts.gov.in/document-category/performance-measurement-report/)
+22:03:08	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/feed/ (from https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/)
+22:03:09	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1114 (from https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/)
+22:03:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/rules-and-regulations/feed/ (from https://patna.dcourts.gov.in/document-category/rules-and-regulations/)
+22:03:09	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1110 (from https://patna.dcourts.gov.in/document-category/rules-and-regulations/)
+22:03:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/statistical-reports/feed/ (from https://patna.dcourts.gov.in/document-category/statistical-reports/)
+22:03:09	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1106 (from https://patna.dcourts.gov.in/document-category/statistical-reports/)
+22:03:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/notice-category/tenders/feed/ (from https://patna.dcourts.gov.in/notice-category/tenders/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice-category/135 (from https://patna.dcourts.gov.in/notice-category/tenders/)
+22:03:10	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/notice-category/recruitments/feed/ (from https://patna.dcourts.gov.in/notice-category/recruitments/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice-category/134 (from https://patna.dcourts.gov.in/notice-category/recruitments/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/6413 (from https://patna.dcourts.gov.in/duty-magistrate/)
+22:03:10	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6413
+22:03:10	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6413 to https://patna.dcourts.gov.in/duty-magistrate/
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fduty-magistrate%2F (from https://patna.dcourts.gov.in/duty-magistrate/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fduty-magistrate%2F&format=xml (from https://patna.dcourts.gov.in/duty-magistrate/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/6432 (from https://patna.dcourts.gov.in/police-station-wise-magistrate/)
+22:03:10	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6432
+22:03:10	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6432 to https://patna.dcourts.gov.in/police-station-wise-magistrate/
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpolice-station-wise-magistrate%2F (from https://patna.dcourts.gov.in/police-station-wise-magistrate/)
+22:03:10	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpolice-station-wise-magistrate%2F&format=xml (from https://patna.dcourts.gov.in/police-station-wise-magistrate/)
+22:03:11	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/199 (from https://patna.dcourts.gov.in/photo-gallery/)
+22:03:11	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=199
+22:03:11	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=199 to https://patna.dcourts.gov.in/photo-gallery/
+22:03:11	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fphoto-gallery%2F (from https://patna.dcourts.gov.in/photo-gallery/)
+22:03:11	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fphoto-gallery%2F&format=xml (from https://patna.dcourts.gov.in/photo-gallery/)
+22:03:13	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5470 (from https://patna.dcourts.gov.in/video-gallery/)
+22:03:13	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5470
+22:03:13	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5470 to https://patna.dcourts.gov.in/video-gallery/
+22:03:13	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvideo-gallery%2F (from https://patna.dcourts.gov.in/video-gallery/)
+22:03:13	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvideo-gallery%2F&format=xml (from https://patna.dcourts.gov.in/video-gallery/)
+22:03:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/category/news/feed/ (from https://patna.dcourts.gov.in/category/news/)
+22:03:15	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/category/64 (from https://patna.dcourts.gov.in/category/news/)
+22:03:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/category/press-release/feed/ (from https://patna.dcourts.gov.in/category/press-release/)
+22:03:19	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/category/66 (from https://patna.dcourts.gov.in/category/press-release/)
+22:03:20	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/publication-type/brochures/feed/ (from https://patna.dcourts.gov.in/publication-type/brochures/)
+22:03:20	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/publication-type/77 (from https://patna.dcourts.gov.in/publication-type/brochures/)
+22:03:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/publication-type/newsletters/feed/ (from https://patna.dcourts.gov.in/publication-type/newsletters/)
+22:03:22	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/publication-type/72 (from https://patna.dcourts.gov.in/publication-type/newsletters/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document/7080 (from https://patna.dcourts.gov.in/document/order-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship/)
+22:03:23	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7080
+22:03:23	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7080 to https://patna.dcourts.gov.in/document/order-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship/
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Forder-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship%2F (from https://patna.dcourts.gov.in/document/order-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Forder-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship%2F&format=xml (from https://patna.dcourts.gov.in/document/order-no-131-2024-dated-31-07-2024-regarding-vishaka-committee-of-patna-judgeship/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document/7573 (from https://patna.dcourts.gov.in/document/notice-regarding-stenographer-appointment-letter/)
+22:03:23	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7573
+22:03:23	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7573 to https://patna.dcourts.gov.in/document/notice-regarding-stenographer-appointment-letter/
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fnotice-regarding-stenographer-appointment-letter%2F (from https://patna.dcourts.gov.in/document/notice-regarding-stenographer-appointment-letter/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fnotice-regarding-stenographer-appointment-letter%2F&format=xml (from https://patna.dcourts.gov.in/document/notice-regarding-stenographer-appointment-letter/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/7674 (from https://patna.dcourts.gov.in/notice/notice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022/)
+22:03:23	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7674
+22:03:23	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7674 to https://patna.dcourts.gov.in/notice/notice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022/
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022%2F (from https://patna.dcourts.gov.in/notice/notice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-02-04-2025-in-connection-with-objections-raised-by-candidates-in-respect-of-model-answers-emp-notice-no-01-2022/)
+22:03:23	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/7763 (from https://patna.dcourts.gov.in/notice/notice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:23	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7763
+22:03:23	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7763 to https://patna.dcourts.gov.in/notice/notice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022%2F (from https://patna.dcourts.gov.in/notice/notice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-10-04-2025-regarding-result-of-the-pt-exam-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/8017 (from https://patna.dcourts.gov.in/notice/notice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8017
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8017 to https://patna.dcourts.gov.in/notice/notice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022%2F (from https://patna.dcourts.gov.in/notice/notice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-19-04-2025-regarding-written-test-for-clerk-pursuant-to-emp-notice-no-01-of-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/8059 (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8059
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8059 to https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l%2F (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-selection-of-aditya-prakash-for-appointment-to-the-post-of-clerk-in-view-of-l/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/8063 (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8063
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8063 to https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022%2F (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-26-04-2025-waiting-list-in-order-of-merit-for-the-post-of-c-r-cum-d-w-emp-notice-no-03-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/8156 (from https://patna.dcourts.gov.in/notice/notice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8156
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8156 to https://patna.dcourts.gov.in/notice/notice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2%2F (from https://patna.dcourts.gov.in/notice/notice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-09-07-2025-regarding-one-additional-result-in-ur-ph-category-and-selection-against-non-joining-in-connection-with-appointment-to-the-post-of-cr-cum-dw-emp-notice-no-03-of-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/notice/8173 (from https://patna.dcourts.gov.in/notice/notice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8173
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8173 to https://patna.dcourts.gov.in/notice/notice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022%2F (from https://patna.dcourts.gov.in/notice/notice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice%2Fnotice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice/notice-dated-12-07-2025-for-submission-of-declaration-form-regarding-belonging-or-not-in-tanti-tatwa-community-udcgrade-iii-emp-notice-no-01-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document/7563 (from https://patna.dcourts.gov.in/document/issuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7563
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7563 to https://patna.dcourts.gov.in/document/issuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fissuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022%2F (from https://patna.dcourts.gov.in/document/issuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fissuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022%2F&format=xml (from https://patna.dcourts.gov.in/document/issuance-of-appointment-letter-for-the-post-of-stenographer-employment-notice-no-02-2022/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/5948 (from https://patna.dcourts.gov.in/Judges/rupesh-deo/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5948
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5948 to https://patna.dcourts.gov.in/Judges/rupesh-deo/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupesh-deo%2F (from https://patna.dcourts.gov.in/Judges/rupesh-deo/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupesh-deo%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rupesh-deo/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/posts/7582 (from https://patna.dcourts.gov.in/virtual-hybrid-hearing/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7582
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7582 to https://patna.dcourts.gov.in/virtual-hybrid-hearing/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvirtual-hybrid-hearing%2F (from https://patna.dcourts.gov.in/virtual-hybrid-hearing/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvirtual-hybrid-hearing%2F&format=xml (from https://patna.dcourts.gov.in/virtual-hybrid-hearing/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document/6655 (from https://patna.dcourts.gov.in/document/nstep-user-manual/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6655
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6655 to https://patna.dcourts.gov.in/document/nstep-user-manual/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fnstep-user-manual%2F (from https://patna.dcourts.gov.in/document/nstep-user-manual/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdocument%2Fnstep-user-manual%2F&format=xml (from https://patna.dcourts.gov.in/document/nstep-user-manual/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/717 (from https://patna.dcourts.gov.in/feedback/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=717
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=717 to https://patna.dcourts.gov.in/feedback/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Ffeedback%2F (from https://patna.dcourts.gov.in/feedback/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Ffeedback%2F&format=xml (from https://patna.dcourts.gov.in/feedback/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/719 (from https://patna.dcourts.gov.in/website-policies/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=719
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=719 to https://patna.dcourts.gov.in/website-policies/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fwebsite-policies%2F (from https://patna.dcourts.gov.in/website-policies/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fwebsite-policies%2F&format=xml (from https://patna.dcourts.gov.in/website-policies/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/724 (from https://patna.dcourts.gov.in/help/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=724
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=724 to https://patna.dcourts.gov.in/help/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fhelp%2F (from https://patna.dcourts.gov.in/help/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fhelp%2F&format=xml (from https://patna.dcourts.gov.in/help/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/pages/5029 (from https://patna.dcourts.gov.in/disclaimer/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=5029
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=5029 to https://patna.dcourts.gov.in/disclaimer/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdisclaimer%2F (from https://patna.dcourts.gov.in/disclaimer/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fdisclaimer%2F&format=xml (from https://patna.dcourts.gov.in/disclaimer/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8049 (from https://patna.dcourts.gov.in/Judges/rupesh-deo-2/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8049
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8049 to https://patna.dcourts.gov.in/Judges/rupesh-deo-2/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupesh-deo-2%2F (from https://patna.dcourts.gov.in/Judges/rupesh-deo-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupesh-deo-2%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rupesh-deo-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8047 (from https://patna.dcourts.gov.in/Judges/sunil-dutta-pandey/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8047
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8047 to https://patna.dcourts.gov.in/Judges/sunil-dutta-pandey/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsunil-dutta-pandey%2F (from https://patna.dcourts.gov.in/Judges/sunil-dutta-pandey/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsunil-dutta-pandey%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sunil-dutta-pandey/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8044 (from https://patna.dcourts.gov.in/Judges/sangam-singh-2/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8044
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8044 to https://patna.dcourts.gov.in/Judges/sangam-singh-2/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsangam-singh-2%2F (from https://patna.dcourts.gov.in/Judges/sangam-singh-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsangam-singh-2%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sangam-singh-2/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8042 (from https://patna.dcourts.gov.in/Judges/neeraj-kumar-ii/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8042
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8042 to https://patna.dcourts.gov.in/Judges/neeraj-kumar-ii/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fneeraj-kumar-ii%2F (from https://patna.dcourts.gov.in/Judges/neeraj-kumar-ii/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fneeraj-kumar-ii%2F&format=xml (from https://patna.dcourts.gov.in/Judges/neeraj-kumar-ii/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8040 (from https://patna.dcourts.gov.in/Judges/akshay-kumar-singh/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8040
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8040 to https://patna.dcourts.gov.in/Judges/akshay-kumar-singh/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fakshay-kumar-singh%2F (from https://patna.dcourts.gov.in/Judges/akshay-kumar-singh/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fakshay-kumar-singh%2F&format=xml (from https://patna.dcourts.gov.in/Judges/akshay-kumar-singh/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8038 (from https://patna.dcourts.gov.in/Judges/rakesh-kumar-i/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8038
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8038 to https://patna.dcourts.gov.in/Judges/rakesh-kumar-i/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frakesh-kumar-i%2F (from https://patna.dcourts.gov.in/Judges/rakesh-kumar-i/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frakesh-kumar-i%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rakesh-kumar-i/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8036 (from https://patna.dcourts.gov.in/Judges/dhananjay-kumar-mishra/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8036
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8036 to https://patna.dcourts.gov.in/Judges/dhananjay-kumar-mishra/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdhananjay-kumar-mishra%2F (from https://patna.dcourts.gov.in/Judges/dhananjay-kumar-mishra/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdhananjay-kumar-mishra%2F&format=xml (from https://patna.dcourts.gov.in/Judges/dhananjay-kumar-mishra/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8034 (from https://patna.dcourts.gov.in/Judges/md-rustam/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8034
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8034 to https://patna.dcourts.gov.in/Judges/md-rustam/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmd-rustam%2F (from https://patna.dcourts.gov.in/Judges/md-rustam/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmd-rustam%2F&format=xml (from https://patna.dcourts.gov.in/Judges/md-rustam/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8032 (from https://patna.dcourts.gov.in/Judges/abhijit-kumar/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8032
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8032 to https://patna.dcourts.gov.in/Judges/abhijit-kumar/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fabhijit-kumar%2F (from https://patna.dcourts.gov.in/Judges/abhijit-kumar/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fabhijit-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/abhijit-kumar/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8030 (from https://patna.dcourts.gov.in/Judges/sunil-kumar-ii/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8030
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8030 to https://patna.dcourts.gov.in/Judges/sunil-kumar-ii/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsunil-kumar-ii%2F (from https://patna.dcourts.gov.in/Judges/sunil-kumar-ii/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsunil-kumar-ii%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sunil-kumar-ii/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8028 (from https://patna.dcourts.gov.in/Judges/avinash-sharma/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8028
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8028 to https://patna.dcourts.gov.in/Judges/avinash-sharma/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Favinash-sharma%2F (from https://patna.dcourts.gov.in/Judges/avinash-sharma/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Favinash-sharma%2F&format=xml (from https://patna.dcourts.gov.in/Judges/avinash-sharma/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8026 (from https://patna.dcourts.gov.in/Judges/brajesh-kumar-pathak/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8026
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8026 to https://patna.dcourts.gov.in/Judges/brajesh-kumar-pathak/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbrajesh-kumar-pathak%2F (from https://patna.dcourts.gov.in/Judges/brajesh-kumar-pathak/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbrajesh-kumar-pathak%2F&format=xml (from https://patna.dcourts.gov.in/Judges/brajesh-kumar-pathak/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8024 (from https://patna.dcourts.gov.in/Judges/atul-kumar-singh/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8024
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8024 to https://patna.dcourts.gov.in/Judges/atul-kumar-singh/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fatul-kumar-singh%2F (from https://patna.dcourts.gov.in/Judges/atul-kumar-singh/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fatul-kumar-singh%2F&format=xml (from https://patna.dcourts.gov.in/Judges/atul-kumar-singh/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8013 (from https://patna.dcourts.gov.in/Judges/umesh-kumar-pandey/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8013
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8013 to https://patna.dcourts.gov.in/Judges/umesh-kumar-pandey/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fumesh-kumar-pandey%2F (from https://patna.dcourts.gov.in/Judges/umesh-kumar-pandey/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fumesh-kumar-pandey%2F&format=xml (from https://patna.dcourts.gov.in/Judges/umesh-kumar-pandey/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8010 (from https://patna.dcourts.gov.in/Judges/dadhich-narayan-bhardwaj/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8010
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8010 to https://patna.dcourts.gov.in/Judges/dadhich-narayan-bhardwaj/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdadhich-narayan-bhardwaj%2F (from https://patna.dcourts.gov.in/Judges/dadhich-narayan-bhardwaj/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdadhich-narayan-bhardwaj%2F&format=xml (from https://patna.dcourts.gov.in/Judges/dadhich-narayan-bhardwaj/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8008 (from https://patna.dcourts.gov.in/Judges/bipin-kumar/)
+22:03:24	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8008
+22:03:24	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8008 to https://patna.dcourts.gov.in/Judges/bipin-kumar/
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbipin-kumar%2F (from https://patna.dcourts.gov.in/Judges/bipin-kumar/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbipin-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/bipin-kumar/)
+22:03:24	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8006 (from https://patna.dcourts.gov.in/Judges/rajeev-nayan/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8006
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8006 to https://patna.dcourts.gov.in/Judges/rajeev-nayan/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frajeev-nayan%2F (from https://patna.dcourts.gov.in/Judges/rajeev-nayan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frajeev-nayan%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rajeev-nayan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8004 (from https://patna.dcourts.gov.in/Judges/sulekha-jha/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8004
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8004 to https://patna.dcourts.gov.in/Judges/sulekha-jha/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsulekha-jha%2F (from https://patna.dcourts.gov.in/Judges/sulekha-jha/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsulekha-jha%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sulekha-jha/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8002 (from https://patna.dcourts.gov.in/Judges/anand-kumar-srivastava/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8002
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8002 to https://patna.dcourts.gov.in/Judges/anand-kumar-srivastava/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fanand-kumar-srivastava%2F (from https://patna.dcourts.gov.in/Judges/anand-kumar-srivastava/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fanand-kumar-srivastava%2F&format=xml (from https://patna.dcourts.gov.in/Judges/anand-kumar-srivastava/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/8000 (from https://patna.dcourts.gov.in/Judges/prashant-kumar/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=8000
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=8000 to https://patna.dcourts.gov.in/Judges/prashant-kumar/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fprashant-kumar%2F (from https://patna.dcourts.gov.in/Judges/prashant-kumar/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fprashant-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/prashant-kumar/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7814 (from https://patna.dcourts.gov.in/Judges/raj-kumar-choudhary/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7814
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7814 to https://patna.dcourts.gov.in/Judges/raj-kumar-choudhary/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fraj-kumar-choudhary%2F (from https://patna.dcourts.gov.in/Judges/raj-kumar-choudhary/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fraj-kumar-choudhary%2F&format=xml (from https://patna.dcourts.gov.in/Judges/raj-kumar-choudhary/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7812 (from https://patna.dcourts.gov.in/Judges/manish-kumar/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7812
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7812 to https://patna.dcourts.gov.in/Judges/manish-kumar/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmanish-kumar%2F (from https://patna.dcourts.gov.in/Judges/manish-kumar/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmanish-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/manish-kumar/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7810 (from https://patna.dcourts.gov.in/Judges/vivek-bharadwaj/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7810
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7810 to https://patna.dcourts.gov.in/Judges/vivek-bharadwaj/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvivek-bharadwaj%2F (from https://patna.dcourts.gov.in/Judges/vivek-bharadwaj/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvivek-bharadwaj%2F&format=xml (from https://patna.dcourts.gov.in/Judges/vivek-bharadwaj/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7807 (from https://patna.dcourts.gov.in/Judges/amit-kumar-dixit/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7807
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7807 to https://patna.dcourts.gov.in/Judges/amit-kumar-dixit/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Famit-kumar-dixit%2F (from https://patna.dcourts.gov.in/Judges/amit-kumar-dixit/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Famit-kumar-dixit%2F&format=xml (from https://patna.dcourts.gov.in/Judges/amit-kumar-dixit/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7805 (from https://patna.dcourts.gov.in/Judges/samrendra-gandhi/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7805
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7805 to https://patna.dcourts.gov.in/Judges/samrendra-gandhi/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsamrendra-gandhi%2F (from https://patna.dcourts.gov.in/Judges/samrendra-gandhi/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsamrendra-gandhi%2F&format=xml (from https://patna.dcourts.gov.in/Judges/samrendra-gandhi/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7803 (from https://patna.dcourts.gov.in/Judges/shailendra-kumar-singh/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7803
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7803 to https://patna.dcourts.gov.in/Judges/shailendra-kumar-singh/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshailendra-kumar-singh%2F (from https://patna.dcourts.gov.in/Judges/shailendra-kumar-singh/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshailendra-kumar-singh%2F&format=xml (from https://patna.dcourts.gov.in/Judges/shailendra-kumar-singh/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7801 (from https://patna.dcourts.gov.in/Judges/ram-manohar-choudhary/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7801
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7801 to https://patna.dcourts.gov.in/Judges/ram-manohar-choudhary/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fram-manohar-choudhary%2F (from https://patna.dcourts.gov.in/Judges/ram-manohar-choudhary/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fram-manohar-choudhary%2F&format=xml (from https://patna.dcourts.gov.in/Judges/ram-manohar-choudhary/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7799 (from https://patna.dcourts.gov.in/Judges/apurva-nayak/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7799
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7799 to https://patna.dcourts.gov.in/Judges/apurva-nayak/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fapurva-nayak%2F (from https://patna.dcourts.gov.in/Judges/apurva-nayak/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fapurva-nayak%2F&format=xml (from https://patna.dcourts.gov.in/Judges/apurva-nayak/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7797 (from https://patna.dcourts.gov.in/Judges/dheerajendra-patanjali/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7797
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7797 to https://patna.dcourts.gov.in/Judges/dheerajendra-patanjali/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdheerajendra-patanjali%2F (from https://patna.dcourts.gov.in/Judges/dheerajendra-patanjali/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdheerajendra-patanjali%2F&format=xml (from https://patna.dcourts.gov.in/Judges/dheerajendra-patanjali/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7795 (from https://patna.dcourts.gov.in/Judges/sonal-biswas/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7795
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7795 to https://patna.dcourts.gov.in/Judges/sonal-biswas/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsonal-biswas%2F (from https://patna.dcourts.gov.in/Judges/sonal-biswas/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsonal-biswas%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sonal-biswas/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7793 (from https://patna.dcourts.gov.in/Judges/sudha-rani/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7793
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7793 to https://patna.dcourts.gov.in/Judges/sudha-rani/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsudha-rani%2F (from https://patna.dcourts.gov.in/Judges/sudha-rani/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsudha-rani%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sudha-rani/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7791 (from https://patna.dcourts.gov.in/Judges/khushboo-anand/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7791
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7791 to https://patna.dcourts.gov.in/Judges/khushboo-anand/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkhushboo-anand%2F (from https://patna.dcourts.gov.in/Judges/khushboo-anand/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkhushboo-anand%2F&format=xml (from https://patna.dcourts.gov.in/Judges/khushboo-anand/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7789 (from https://patna.dcourts.gov.in/Judges/sayed-aamir-ali/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7789
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7789 to https://patna.dcourts.gov.in/Judges/sayed-aamir-ali/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsayed-aamir-ali%2F (from https://patna.dcourts.gov.in/Judges/sayed-aamir-ali/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsayed-aamir-ali%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sayed-aamir-ali/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7787 (from https://patna.dcourts.gov.in/Judges/jay-prakash-mahto/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7787
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7787 to https://patna.dcourts.gov.in/Judges/jay-prakash-mahto/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fjay-prakash-mahto%2F (from https://patna.dcourts.gov.in/Judges/jay-prakash-mahto/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fjay-prakash-mahto%2F&format=xml (from https://patna.dcourts.gov.in/Judges/jay-prakash-mahto/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7785 (from https://patna.dcourts.gov.in/Judges/amit-kumar-aryan/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7785
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7785 to https://patna.dcourts.gov.in/Judges/amit-kumar-aryan/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Famit-kumar-aryan%2F (from https://patna.dcourts.gov.in/Judges/amit-kumar-aryan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Famit-kumar-aryan%2F&format=xml (from https://patna.dcourts.gov.in/Judges/amit-kumar-aryan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7682 (from https://patna.dcourts.gov.in/Judges/bhupendra-singh-2/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7682
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7682 to https://patna.dcourts.gov.in/Judges/bhupendra-singh-2/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbhupendra-singh-2%2F (from https://patna.dcourts.gov.in/Judges/bhupendra-singh-2/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fbhupendra-singh-2%2F&format=xml (from https://patna.dcourts.gov.in/Judges/bhupendra-singh-2/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7750 (from https://patna.dcourts.gov.in/Judges/kumar-gunjan/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7750
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7750 to https://patna.dcourts.gov.in/Judges/kumar-gunjan/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumar-gunjan%2F (from https://patna.dcourts.gov.in/Judges/kumar-gunjan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumar-gunjan%2F&format=xml (from https://patna.dcourts.gov.in/Judges/kumar-gunjan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7687 (from https://patna.dcourts.gov.in/Judges/shree-prakash/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7687
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7687 to https://patna.dcourts.gov.in/Judges/shree-prakash/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshree-prakash%2F (from https://patna.dcourts.gov.in/Judges/shree-prakash/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshree-prakash%2F&format=xml (from https://patna.dcourts.gov.in/Judges/shree-prakash/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7689 (from https://patna.dcourts.gov.in/Judges/manoj-kumar-srivastava/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7689
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7689 to https://patna.dcourts.gov.in/Judges/manoj-kumar-srivastava/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmanoj-kumar-srivastava%2F (from https://patna.dcourts.gov.in/Judges/manoj-kumar-srivastava/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmanoj-kumar-srivastava%2F&format=xml (from https://patna.dcourts.gov.in/Judges/manoj-kumar-srivastava/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7691 (from https://patna.dcourts.gov.in/Judges/rajnish-ranjan/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7691
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7691 to https://patna.dcourts.gov.in/Judges/rajnish-ranjan/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frajnish-ranjan%2F (from https://patna.dcourts.gov.in/Judges/rajnish-ranjan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frajnish-ranjan%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rajnish-ranjan/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7693 (from https://patna.dcourts.gov.in/Judges/kshiprachala-anjalee/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7693
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7693 to https://patna.dcourts.gov.in/Judges/kshiprachala-anjalee/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkshiprachala-anjalee%2F (from https://patna.dcourts.gov.in/Judges/kshiprachala-anjalee/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkshiprachala-anjalee%2F&format=xml (from https://patna.dcourts.gov.in/Judges/kshiprachala-anjalee/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7695 (from https://patna.dcourts.gov.in/Judges/swarn-prabhat/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7695
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7695 to https://patna.dcourts.gov.in/Judges/swarn-prabhat/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fswarn-prabhat%2F (from https://patna.dcourts.gov.in/Judges/swarn-prabhat/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fswarn-prabhat%2F&format=xml (from https://patna.dcourts.gov.in/Judges/swarn-prabhat/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7668 (from https://patna.dcourts.gov.in/Judges/naghma-tarannum/)
+22:03:25	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7668
+22:03:25	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7668 to https://patna.dcourts.gov.in/Judges/naghma-tarannum/
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnaghma-tarannum%2F (from https://patna.dcourts.gov.in/Judges/naghma-tarannum/)
+22:03:25	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnaghma-tarannum%2F&format=xml (from https://patna.dcourts.gov.in/Judges/naghma-tarannum/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7697 (from https://patna.dcourts.gov.in/Judges/chandra-bhushan-ram/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7697
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7697 to https://patna.dcourts.gov.in/Judges/chandra-bhushan-ram/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fchandra-bhushan-ram%2F (from https://patna.dcourts.gov.in/Judges/chandra-bhushan-ram/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fchandra-bhushan-ram%2F&format=xml (from https://patna.dcourts.gov.in/Judges/chandra-bhushan-ram/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7699 (from https://patna.dcourts.gov.in/Judges/divya-amal/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7699
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7699 to https://patna.dcourts.gov.in/Judges/divya-amal/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdivya-amal%2F (from https://patna.dcourts.gov.in/Judges/divya-amal/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fdivya-amal%2F&format=xml (from https://patna.dcourts.gov.in/Judges/divya-amal/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7701 (from https://patna.dcourts.gov.in/Judges/vikas-kumar-singh/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7701
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7701 to https://patna.dcourts.gov.in/Judges/vikas-kumar-singh/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvikas-kumar-singh%2F (from https://patna.dcourts.gov.in/Judges/vikas-kumar-singh/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvikas-kumar-singh%2F&format=xml (from https://patna.dcourts.gov.in/Judges/vikas-kumar-singh/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7705 (from https://patna.dcourts.gov.in/Judges/satish-kumar/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7705
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7705 to https://patna.dcourts.gov.in/Judges/satish-kumar/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsatish-kumar%2F (from https://patna.dcourts.gov.in/Judges/satish-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsatish-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/satish-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7703 (from https://patna.dcourts.gov.in/Judges/priyanka-kumari/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7703
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7703 to https://patna.dcourts.gov.in/Judges/priyanka-kumari/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fpriyanka-kumari%2F (from https://patna.dcourts.gov.in/Judges/priyanka-kumari/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fpriyanka-kumari%2F&format=xml (from https://patna.dcourts.gov.in/Judges/priyanka-kumari/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7713 (from https://patna.dcourts.gov.in/Judges/sumit-kumar/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7713
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7713 to https://patna.dcourts.gov.in/Judges/sumit-kumar/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsumit-kumar%2F (from https://patna.dcourts.gov.in/Judges/sumit-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsumit-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sumit-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7719 (from https://patna.dcourts.gov.in/Judges/kumar-shubham/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7719
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7719 to https://patna.dcourts.gov.in/Judges/kumar-shubham/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumar-shubham%2F (from https://patna.dcourts.gov.in/Judges/kumar-shubham/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumar-shubham%2F&format=xml (from https://patna.dcourts.gov.in/Judges/kumar-shubham/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7721 (from https://patna.dcourts.gov.in/Judges/md-arbaz-ansari/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7721
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7721 to https://patna.dcourts.gov.in/Judges/md-arbaz-ansari/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmd-arbaz-ansari%2F (from https://patna.dcourts.gov.in/Judges/md-arbaz-ansari/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fmd-arbaz-ansari%2F&format=xml (from https://patna.dcourts.gov.in/Judges/md-arbaz-ansari/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7723 (from https://patna.dcourts.gov.in/Judges/archana/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7723
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7723 to https://patna.dcourts.gov.in/Judges/archana/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Farchana%2F (from https://patna.dcourts.gov.in/Judges/archana/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Farchana%2F&format=xml (from https://patna.dcourts.gov.in/Judges/archana/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7726 (from https://patna.dcourts.gov.in/Judges/vinit-kumar-sah/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7726
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7726 to https://patna.dcourts.gov.in/Judges/vinit-kumar-sah/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvinit-kumar-sah%2F (from https://patna.dcourts.gov.in/Judges/vinit-kumar-sah/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fvinit-kumar-sah%2F&format=xml (from https://patna.dcourts.gov.in/Judges/vinit-kumar-sah/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7728 (from https://patna.dcourts.gov.in/Judges/kumari-anamika-dagar/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7728
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7728 to https://patna.dcourts.gov.in/Judges/kumari-anamika-dagar/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumari-anamika-dagar%2F (from https://patna.dcourts.gov.in/Judges/kumari-anamika-dagar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkumari-anamika-dagar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/kumari-anamika-dagar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7730 (from https://patna.dcourts.gov.in/Judges/aishwarya-deep/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7730
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7730 to https://patna.dcourts.gov.in/Judges/aishwarya-deep/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Faishwarya-deep%2F (from https://patna.dcourts.gov.in/Judges/aishwarya-deep/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Faishwarya-deep%2F&format=xml (from https://patna.dcourts.gov.in/Judges/aishwarya-deep/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7783 (from https://patna.dcourts.gov.in/Judges/sankash-chandra/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7783
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7783 to https://patna.dcourts.gov.in/Judges/sankash-chandra/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsankash-chandra%2F (from https://patna.dcourts.gov.in/Judges/sankash-chandra/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsankash-chandra%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sankash-chandra/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7781 (from https://patna.dcourts.gov.in/Judges/sanjeev-kumar-i/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7781
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7781 to https://patna.dcourts.gov.in/Judges/sanjeev-kumar-i/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsanjeev-kumar-i%2F (from https://patna.dcourts.gov.in/Judges/sanjeev-kumar-i/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsanjeev-kumar-i%2F&format=xml (from https://patna.dcourts.gov.in/Judges/sanjeev-kumar-i/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7779 (from https://patna.dcourts.gov.in/Judges/rupa-rani/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7779
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7779 to https://patna.dcourts.gov.in/Judges/rupa-rani/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupa-rani%2F (from https://patna.dcourts.gov.in/Judges/rupa-rani/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Frupa-rani%2F&format=xml (from https://patna.dcourts.gov.in/Judges/rupa-rani/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7777 (from https://patna.dcourts.gov.in/Judges/shubham-tripathi/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7777
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7777 to https://patna.dcourts.gov.in/Judges/shubham-tripathi/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshubham-tripathi%2F (from https://patna.dcourts.gov.in/Judges/shubham-tripathi/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fshubham-tripathi%2F&format=xml (from https://patna.dcourts.gov.in/Judges/shubham-tripathi/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7774 (from https://patna.dcourts.gov.in/Judges/navin-kumar/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7774
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7774 to https://patna.dcourts.gov.in/Judges/navin-kumar/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnavin-kumar%2F (from https://patna.dcourts.gov.in/Judges/navin-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnavin-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/navin-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7772 (from https://patna.dcourts.gov.in/Judges/ashutosh-kumar/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7772
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7772 to https://patna.dcourts.gov.in/Judges/ashutosh-kumar/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fashutosh-kumar%2F (from https://patna.dcourts.gov.in/Judges/ashutosh-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fashutosh-kumar%2F&format=xml (from https://patna.dcourts.gov.in/Judges/ashutosh-kumar/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7770 (from https://patna.dcourts.gov.in/Judges/satya-prakash/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7770
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7770 to https://patna.dcourts.gov.in/Judges/satya-prakash/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsatya-prakash%2F (from https://patna.dcourts.gov.in/Judges/satya-prakash/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fsatya-prakash%2F&format=xml (from https://patna.dcourts.gov.in/Judges/satya-prakash/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7767 (from https://patna.dcourts.gov.in/Judges/naveen-kumar-gautam/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7767
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7767 to https://patna.dcourts.gov.in/Judges/naveen-kumar-gautam/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnaveen-kumar-gautam%2F (from https://patna.dcourts.gov.in/Judges/naveen-kumar-gautam/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fnaveen-kumar-gautam%2F&format=xml (from https://patna.dcourts.gov.in/Judges/naveen-kumar-gautam/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7766 (from https://patna.dcourts.gov.in/Judges/kartikey-satyam-kishore/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7766
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7766 to https://patna.dcourts.gov.in/Judges/kartikey-satyam-kishore/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkartikey-satyam-kishore%2F (from https://patna.dcourts.gov.in/Judges/kartikey-satyam-kishore/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fkartikey-satyam-kishore%2F&format=xml (from https://patna.dcourts.gov.in/Judges/kartikey-satyam-kishore/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7678 (from https://patna.dcourts.gov.in/Judges/ravi-pandey/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7678
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7678 to https://patna.dcourts.gov.in/Judges/ravi-pandey/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fravi-pandey%2F (from https://patna.dcourts.gov.in/Judges/ravi-pandey/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fravi-pandey%2F&format=xml (from https://patna.dcourts.gov.in/Judges/ravi-pandey/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/judge/7680 (from https://patna.dcourts.gov.in/Judges/pawan-kumar-chaudhary/)
+22:03:26	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=7680
+22:03:26	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=7680 to https://patna.dcourts.gov.in/Judges/pawan-kumar-chaudhary/
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fpawan-kumar-chaudhary%2F (from https://patna.dcourts.gov.in/Judges/pawan-kumar-chaudhary/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2FJudges%2Fpawan-kumar-chaudhary%2F&format=xml (from https://patna.dcourts.gov.in/Judges/pawan-kumar-chaudhary/)
+22:03:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/feed/ (from https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1116 (from https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/)
+22:03:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/duty-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/duty-magistrate/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1364 (from https://patna.dcourts.gov.in/document-category/duty-magistrate/)
+22:03:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/)
+22:03:26	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1376 (from https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/)
+22:03:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/circular-judgements/feed/ (from https://patna.dcourts.gov.in/document-category/circular-judgements/)
+22:03:28	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/document-category/1395 (from https://patna.dcourts.gov.in/document-category/circular-judgements/)
+22:03:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/circular-notices/feed/ (from https://patna.dcourts.gov.in/document-category/circular-notices/)
+22:03:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/management-tools/feed/ (from https://patna.dcourts.gov.in/document-category/management-tools/)
+22:03:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/notification/feed/ (from https://patna.dcourts.gov.in/document-category/notification/)
+22:03:30	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/performance-measurement-report/feed/ (from https://patna.dcourts.gov.in/document-category/performance-measurement-report/)
+22:03:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/feed/ (from https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/)
+22:03:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/rules-and-regulations/feed/ (from https://patna.dcourts.gov.in/document-category/rules-and-regulations/)
+22:03:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/statistical-reports/feed/ (from https://patna.dcourts.gov.in/document-category/statistical-reports/)
+22:03:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/notice-category/tenders/feed/ (from https://patna.dcourts.gov.in/notice-category/tenders/)
+22:03:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/notice-category/recruitments/feed/ (from https://patna.dcourts.gov.in/notice-category/recruitments/)
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/gallery/6486 (from https://patna.dcourts.gov.in/gallery/e-sewa-kendra/)
+22:03:33	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6486
+22:03:33	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6486 to https://patna.dcourts.gov.in/gallery/e-sewa-kendra/
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fgallery%2Fe-sewa-kendra%2F (from https://patna.dcourts.gov.in/gallery/e-sewa-kendra/)
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fgallery%2Fe-sewa-kendra%2F&format=xml (from https://patna.dcourts.gov.in/gallery/e-sewa-kendra/)
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/video/6632 (from https://patna.dcourts.gov.in/video/introduction-to-e-filing-3-0/)
+22:03:33	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6632
+22:03:33	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6632 to https://patna.dcourts.gov.in/video/introduction-to-e-filing-3-0/
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvideo%2Fintroduction-to-e-filing-3-0%2F (from https://patna.dcourts.gov.in/video/introduction-to-e-filing-3-0/)
+22:03:33	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fvideo%2Fintroduction-to-e-filing-3-0%2F&format=xml (from https://patna.dcourts.gov.in/video/introduction-to-e-filing-3-0/)
+22:03:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/category/news/feed/ (from https://patna.dcourts.gov.in/category/news/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/posts/6890 (from https://patna.dcourts.gov.in/notice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022/)
+22:03:34	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6890
+22:03:34	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6890 to https://patna.dcourts.gov.in/notice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022/
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022%2F (from https://patna.dcourts.gov.in/notice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnotice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022%2F&format=xml (from https://patna.dcourts.gov.in/notice-dated-26-04-2024-with-list-of-candidates-qualified-disqualified-in-written-test-held-on-17-12-2023-for-the-post-of-stenographer-pursuant-to-emp-notice-no-02-of-2022/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/posts/6626 (from https://patna.dcourts.gov.in/new-website-on-s3waas-platform-will-be-launched-soon/)
+22:03:34	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6626
+22:03:34	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6626 to https://patna.dcourts.gov.in/new-website-on-s3waas-platform-will-be-launched-soon/
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnew-website-on-s3waas-platform-will-be-launched-soon%2F (from https://patna.dcourts.gov.in/new-website-on-s3waas-platform-will-be-launched-soon/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fnew-website-on-s3waas-platform-will-be-launched-soon%2F&format=xml (from https://patna.dcourts.gov.in/new-website-on-s3waas-platform-will-be-launched-soon/)
+22:03:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/category/press-release/feed/ (from https://patna.dcourts.gov.in/category/press-release/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/posts/6628 (from https://patna.dcourts.gov.in/bihar-civil-court-admit-card-2023-released-at-dcprequirement-in/)
+22:03:34	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6628
+22:03:34	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6628 to https://patna.dcourts.gov.in/bihar-civil-court-admit-card-2023-released-at-dcprequirement-in/
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fbihar-civil-court-admit-card-2023-released-at-dcprequirement-in%2F (from https://patna.dcourts.gov.in/bihar-civil-court-admit-card-2023-released-at-dcprequirement-in/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fbihar-civil-court-admit-card-2023-released-at-dcprequirement-in%2F&format=xml (from https://patna.dcourts.gov.in/bihar-civil-court-admit-card-2023-released-at-dcprequirement-in/)
+22:03:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/publication-type/brochures/feed/ (from https://patna.dcourts.gov.in/publication-type/brochures/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/publication/6577 (from https://patna.dcourts.gov.in/publication/nstep-user-manual/)
+22:03:34	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6577
+22:03:34	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6577 to https://patna.dcourts.gov.in/publication/nstep-user-manual/
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnstep-user-manual%2F (from https://patna.dcourts.gov.in/publication/nstep-user-manual/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnstep-user-manual%2F&format=xml (from https://patna.dcourts.gov.in/publication/nstep-user-manual/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/publication/6531 (from https://patna.dcourts.gov.in/publication/nstep-brouchers/)
+22:03:34	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6531
+22:03:34	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6531 to https://patna.dcourts.gov.in/publication/nstep-brouchers/
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnstep-brouchers%2F (from https://patna.dcourts.gov.in/publication/nstep-brouchers/)
+22:03:34	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnstep-brouchers%2F&format=xml (from https://patna.dcourts.gov.in/publication/nstep-brouchers/)
+22:03:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/publication-type/newsletters/feed/ (from https://patna.dcourts.gov.in/publication-type/newsletters/)
+22:03:35	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/wp/v2/publication/6528 (from https://patna.dcourts.gov.in/publication/newsletter-september-2023/)
+22:03:35	Warning: 	Moved Permanently for https://patna.dcourts.gov.in/?p=6528
+22:03:35	Warning: 	File has moved from https://patna.dcourts.gov.in/?p=6528 to https://patna.dcourts.gov.in/publication/newsletter-september-2023/
+22:03:35	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnewsletter-september-2023%2F (from https://patna.dcourts.gov.in/publication/newsletter-september-2023/)
+22:03:35	Error: 	"Unauthorized" (401) at link https://patna.dcourts.gov.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpatna.dcourts.gov.in%2Fpublication%2Fnewsletter-september-2023%2F&format=xml (from https://patna.dcourts.gov.in/publication/newsletter-september-2023/)
+22:03:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/feed/ (from https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/)
+22:03:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/duty-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/duty-magistrate/)
+22:03:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/)
+22:03:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://patna.dcourts.gov.in/document-category/circular-judgements/feed/ (from https://patna.dcourts.gov.in/document-category/circular-judgements/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/circular-notices/feed/ (from https://patna.dcourts.gov.in/document-category/circular-notices/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/management-tools/feed/ (from https://patna.dcourts.gov.in/document-category/management-tools/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/notification/feed/ (from https://patna.dcourts.gov.in/document-category/notification/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/performance-measurement-report/feed/ (from https://patna.dcourts.gov.in/document-category/performance-measurement-report/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/feed/ (from https://patna.dcourts.gov.in/document-category/pleaders-and-bar-association/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/rules-and-regulations/feed/ (from https://patna.dcourts.gov.in/document-category/rules-and-regulations/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/statistical-reports/feed/ (from https://patna.dcourts.gov.in/document-category/statistical-reports/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/notice-category/tenders/feed/ (from https://patna.dcourts.gov.in/notice-category/tenders/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/notice-category/recruitments/feed/ (from https://patna.dcourts.gov.in/notice-category/recruitments/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/category/news/feed/ (from https://patna.dcourts.gov.in/category/news/)
+22:03:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/category/press-release/feed/ (from https://patna.dcourts.gov.in/category/press-release/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/publication-type/brochures/feed/ (from https://patna.dcourts.gov.in/publication-type/brochures/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/publication-type/newsletters/feed/ (from https://patna.dcourts.gov.in/publication-type/newsletters/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/feed/ (from https://patna.dcourts.gov.in/document-category/ecourts-phase-ii-reports/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/duty-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/duty-magistrate/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/feed/ (from https://patna.dcourts.gov.in/document-category/police-station-wise-magistrate/)
+22:03:40	Error: 	"Internal Server Error" (500) after 2 retries at link https://patna.dcourts.gov.in/document-category/circular-judgements/feed/ (from https://patna.dcourts.gov.in/document-category/circular-judgements/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 58 seconds : 1137 links scanned, 585 files written (31871704 bytes overall) [23188449 bytes received at 77813 bytes/sec], 13790332 bytes transferred using HTTP compression in 225 files, ratio 18%, 39.2 requests per connection
+(400 errors, 269 warnings, 0 messages)
