@@ -1,0 +1,515 @@
+@import "datepicker.css";
+
+.custom-form-cntr {
+  background: #f7f7f7;
+  margin: 0 auto 25px;
+  float: none;
+  padding: 25px;
+  box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  width: 680px;
+  position: relative;
+}
+
+.custom-form-cntr:after {
+  content: "";
+}
+.custom-form-cntr:before {
+  content: "";
+}
+
+.custom-form-cntr .form-row {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.custom-form-cntr .form-row .first_col {
+  text-align: right;
+  width: 200px;
+  margin-right: 15px;
+}
+.custom-form-cntr .form-row .first_col > label {
+  display: block;
+  margin-top: 7px;
+}
+
+.redStar {
+  color: red;
+  font-size: 16px;
+  margin-left: 1px;
+}
+
+.custom-form-cntr .form-row .second_col select,
+.custom-form-cntr .form-row .second_col input[type="text"] {
+  color: #555;
+  border: 1px solid #ccc;
+  background: #ffffff;
+  width: 350px;
+  height: 35px;
+  border-radius: 3px;
+  margin: 0 3px 3px 0;
+  padding: 0 5px;
+}
+
+.custom-form-cntr .form-row .second_col select:disabled,
+.custom-form-cntr .form-row .second_col input:disabled,
+.custom-form-cntr .form-row .second_col button:disabled,
+.custom-form-cntr .form-row .second_col textarea:disabled,
+.custom-form-cntr .form-row .second_col input[type="text"]:disabled {
+  background: #ccc !important;
+  border-color: #ababab !important;
+  color: #555 !important;
+}
+
+.custom-form-cntr .form-row .second_col select {
+  appearance: auto;
+  padding: 0;
+}
+
+/* .custom-form-cntr .form-row .second_col option{
+  width: 350px;
+} */
+
+.custom-form-cntr .form-row .second_col.captcha-cntr a {
+  background: #ffffff;
+  height: 30px;
+  width: 30px;
+  line-height: 28px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.custom-form-cntr .form-row .radio-inpout {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.custom-form-cntr .form-row .radio-inpout input {
+  appearance: auto;
+  margin: 0 4px 0 0;
+}
+
+.custom-form-cntr .form-row .radio-inpout input,
+.custom-form-cntr .form-row .radio-inpout label {
+  cursor: pointer;
+}
+
+.custom-form-cntr .form-row .med-width {
+  width: 130px !important;
+}
+
+.custom-form-cntr .form-row .small-width {
+  width: 70px !important;
+}
+
+.custom-form-cntr .btn.btn-style-outline {
+  background: #5d338a;
+  color: #fff;
+  margin-left: 0;
+  height: 35px;
+  vertical-align: text-bottom;
+  border-radius: 3px;
+  font-size: 1.1em;
+}
+.custom-form-cntr .btn:focus {
+  outline: none;
+  outline-offset: inherit;
+}
+
+.custom-form-cntr .btn.btn-style-outline:hover,
+.custom-form-cntr .btn.btn-style-outline:focus,
+.custom-form-cntr .btn.btn-style-outline:active {
+  color: #fff;
+  outline: none;
+}
+
+.notfound {
+  padding: 15px;
+  width: 680px;
+  border: 1px solid #b1b1b1;
+  text-align: center;
+  font-weight: 600;
+  margin: 25px auto;
+}
+
+.contrast .custom-form-cntr,
+.contrast .notfound {
+  background: #000 !important;
+  border: 1px solid #fff;
+}
+
+.contrast .custom-form-cntr .form-row .radio-inpout {
+  color: #ffff00 !important;
+}
+
+.contrast .custom-form-cntr .second_col.captcha-cntr a {
+  background: #333;
+}
+
+.contrast .custom-form-cntr .btn.btn-style-outline {
+  color: #000 !important;
+  background-color: #ffff00 !important;
+  border-color: #ff0;
+}
+
+.servicesResultsContainer a {text-decoration: underline;}
+#cnrResultsDetails ul li {list-style-type: none;}
+.viewCnrDetailsBack {margin: 5px 0 20px 0 !important;}
+
+.loadMoreCasesHolder.waiting {cursor: wait;}
+a.loadMoreCases{text-decoration: none;}
+a.loadMoreCases.disabled{pointer-events: none;}
+
+@media screen and (max-width: 640px) {
+  .custom-form-cntr {
+    margin: 0 10px;
+    width: auto;
+  }
+
+  .custom-form-cntr .form-row {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .custom-form-cntr .form-row .first_col,
+  .custom-form-cntr .form-row .second_col {
+    text-align: left;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 7px;
+  }
+
+  .custom-form-cntr .form-row .second_col select,
+  .custom-form-cntr .form-row .second_col input[type="text"] {
+    width: 100%;
+  }
+}
+
+.ecourt-services-form p.error-input {
+  color: red;
+  margin: 0;
+}
+
+.ecourt-services-form .siwp-captcha-cntr {
+  display: inline-block;
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #c5c5c5;
+  border-radius: 3px;
+}
+.ecourt-services-form .siwp-captcha-cntr .audio-refresh-box {
+  border: 1px solid #c5c5c5;
+}
+.ecourt-services-form .audio-refresh-box .captcha_play_button {
+  border-color: #c5c5c5;
+}
+.ecourt-services-form .siwp-captcha-cntr img {
+  border: 1px solid #c5c5c5;
+}
+.ecourt-services-form .siwp-captcha-cntr img.captcha_loading_image {
+  border: none;
+}
+.ecourt-services-form .siwp-captcha-cntr .enter-captcha {
+  width: 100% !important;
+  margin-top: 10px !important;
+}
+
+.s3waas-loader {
+  display: inline-block;
+}
+.fields-req-msg {
+  text-align: right;
+  margin-top: -15px;
+  font-size: 0.85em;
+  text-align: right;
+}
+.fields-req-msg .redStar {
+  vertical-align: middle;
+}
+.viewCnrDetails.btn {
+  text-decoration: none;
+}
+.select-radiogroup {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.select-radiogroup legend {
+  font-size: 0;
+}
+
+.custom-form-cntr .form-row .second_col select.error-input,
+.custom-form-cntr
+  .form-row
+  .second_col
+  select.error-input
+  ~ .select2-container--default
+  .select2-selection--single,
+.custom-form-cntr .form-row .second_col input.error-input,
+.custom-form-cntr .form-row .second_col textarea.error-input {
+  border: 2px solid red !important;
+}
+.custom-form-cntr .form-row .second_col .wai-datepicker {
+  margin-top: 0;
+}
+
+/*Cutom select dropdown*/
+.selectNative,
+.selectCustom {
+  position: relative;
+  width: 350px;
+  height: 35px;
+  border: 1px solid #ccc;
+}
+
+.selectCustom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+@media (hover: hover) {
+  .selectCustom {
+    display: block;
+  }
+
+  .selectNative:focus + .selectCustom {
+    display: none;
+  }
+}
+
+/* Add the focus states too, They matter, always! */
+.selectNative:focus,
+.selectCustom.isActive .selectCustom-trigger {
+  outline: none;
+  box-shadow: white 0 0 0 0.2rem, #ff821f 0 0 0 0.4rem;
+}
+
+.select {
+  position: relative;
+}
+
+.selectLabel {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.4rem;
+}
+
+.selectWrapper {
+  position: relative;
+}
+
+.selectNative,
+.selectCustom-trigger {
+  border-radius: 3px;
+}
+
+.selectNative {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 0.8rem;
+  padding: 0rem 0.8rem;
+}
+
+.selectCustom-trigger {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  padding: 7px 5px;
+  cursor: pointer;
+  color: #424242 !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.selectCustom-trigger::after {
+  font-family: FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: "\f107";
+  position: absolute;
+  top: 0;
+  line-height: 35px;
+  right: 0;
+  font-weight: 600;
+  font-size: 15px;
+  background: #fff;
+  width: 18px;
+  text-align: center;
+}
+
+.selectCustom-trigger:hover {
+  border-color: #1e90ff;
+}
+
+.selectCustom-options {
+  position: absolute;
+  top: calc(3.8rem + 0.8rem);
+  left: 0;
+  width: 100%;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: 0 0 4px #585858;
+  z-index: 1;
+  display: none;
+  height: 200px;
+  overflow-y: auto;
+}
+
+.selectCustom.isActive .selectCustom-options {
+  display: block;
+}
+
+.selectCustom-option {
+  position: relative;
+  padding: 3px 7px;
+  color: #424242 !important;
+}
+
+.selectCustom-option.isHover,
+.selectCustom-option:hover {
+  background-color: #1e90ff;
+  color: #fff !important;
+  cursor: default;
+}
+
+.selectCustom-option:not(:last-of-type)::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  border-bottom: 1px solid #e4e4e4;
+}
+.custom-form-cntr .form-row .med-width#advocate_state_code,
+.custom-form-cntr .form-row .med-width#advocate_bar_code,
+.custom-form-cntr .form-row .med-width#advocate_year {
+  width: 112px !important;
+}
+p#national_act_code-error {
+  position: absolute;
+  bottom: -20px;
+}
+.second_col .select2-container--default .select2-selection--single {
+  color: #555;
+  border: 1px solid #ccc;
+  background: #ffffff;
+  width: 350px;
+  height: 35px;
+  border-radius: 3px;
+  margin: 0 3px 3px 0;
+  padding: 0;
+}
+.second_col
+  .select2-container--default
+  .select2-selection--single
+  .select2-selection__rendered {
+  line-height: 33px;
+  font-size: 13px;
+  font-family: sans-serif;
+  padding-left: 5px;
+}
+.second_col
+  .select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow {
+  height: 33px;
+}
+.second_col
+  .select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow
+  b {
+  border: none;
+  border-color: transparent;
+  margin-left: -5px;
+  margin-top: -11px;
+  font-size: 16px;
+}
+.second_col
+  .select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow
+  b:before {
+  content: "\f107";
+  font-family: FontAwesome;
+}
+.select2-dropdown {
+  margin-top: -4px;
+  border-color: #ccc !important;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field {
+  margin-bottom: 7px;
+}
+.show-focus-outlines
+  .select2.select2-container.select2-container--default.select2-container--focus
+  .select2-selection--single,
+.ecourt-services-form p.error-input:focus {
+  outline: 2px solid #ff8c00 !important;
+  transition: none !important;
+}
+
+.services-links {
+  text-align: center;
+  margin-bottom: 12px;
+}
+.services-links ul {
+  padding: 0;
+}
+.services-links ul li {
+  display: inline-block;
+  list-style: none;
+  padding-bottom: 4px;
+}
+.services-links ul li a {
+  padding: 7px 12px;
+  margin: 1px;
+  border-radius: 3px;
+}
+.services-links ul li a:hover,
+.services-links ul li a.active {
+  box-shadow: none;
+  border-color: rgba(0, 0, 0, 0.2) !important;
+}
+.services-links ul li a em {
+  width: 27px;
+  height: 27px;
+  line-height: 27px;
+  background-color: rgba(0, 0, 0, 0.17);
+  border-radius: 100%;
+  margin-right: 2px;
+}
+
+@media screen and (max-width: 667px) {
+  .notfound {
+    width: 100%;
+  }
+  .wai-datepicker .header h2 {
+    margin: 4px 0 !important;
+  }
+  .custom-form-cntr .form-row .second_col input.datepicker-input {
+    width: calc(100% - 40px);
+  }
+  .custom-form-cntr .form-row .med-width#advocate_state_code,
+  .custom-form-cntr .form-row .med-width#advocate_bar_code,
+  .custom-form-cntr .form-row .med-width#advocate_year {
+    width: calc(50% - 5px) !important;
+    margin-bottom: 5px;
+  }
+  .second_col .select2-container--default .select2-selection--single {
+    width: 100% !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .ecourt-services-form .siwp-captcha-cntr > div:nth-child(1) {
+    width: calc(100% - 53px);
+    margin-right: 10px;
+  }
+}

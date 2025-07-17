@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.captcha_loading_image {
+  -webkit-animation: rotating 1.5s linear infinite;
+  -moz-animation: rotating 1.5s linear infinite;
+  -ms-animation: rotating 1.5s linear infinite;
+  -o-animation: rotating 1.5s linear infinite;
+  animation: rotating 1.5s linear infinite;
+}
+
+/*Siwp captcha css start*/
+.siwp-captcha-cntr{ display: inline-block; background: #a9a9a9; padding: 10px; }
+.audio-refresh-box{ background: #fff; border-left: 9px solid #a9a9a9; }
+.audio-refresh-box .captcha_play_button{ border-bottom: 1px solid #a9a9a9; padding: 5px; }
+.audio-refresh-box .captcha_play_button, .audio-refresh-box .captcha-refresh-btn{ padding: 0px 12px; height: 40px; line-height: 40px; font-size: 18px; display: inline-block;}
+.audio-refresh-box .captcha_play_button:hover, .audio-refresh-box .captcha-refresh-btn:hover{ color: #8d4bf3;}
+.audio-refresh-box .captcha-refresh-btn{ display: inline-block;}
+.enter-captcha{ margin-top: 9px; }
+
+
+.contrast .siwp-captcha-cntr, .contrast .audio-refresh-box{ border: 1px solid #555;}
+.contrast .siwp-captcha-cntr, .contrast .audio-refresh-box{ background: #000; }
+.contrast .audio-refresh-box { border-left: 1px solid #555;
+}
+/*Siwp captcha css end*/

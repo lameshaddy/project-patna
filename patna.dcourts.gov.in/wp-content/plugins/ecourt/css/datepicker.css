@@ -1,0 +1,215 @@
+.wai-datepicker {
+    margin-top: 1em;
+    position: relative;
+}
+
+.wai-datepicker button.icon {
+    width: 33px;
+    height: 35px;
+    padding: 4px;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: left;
+    background: no-repeat;
+    position: relative;
+    left: -4px;
+    margin-top: -2px;
+    font-size: 12px;
+}
+
+.wai-datepicker button.icon:focus {
+    outline: none;
+    border-color: hsl(216, 80%, 55%);
+}
+
+.wai-datepicker span.arrow {
+    margin: 0;
+    padding: 0;
+    display: none;
+    background: transparent;
+}
+
+.wai-datepicker input {
+    margin: 0;
+    width: 20%;
+}
+
+.wai-datepicker .datepickerDialog {
+    position: absolute;
+    width: 80%;
+    right: 0;
+    clear: both;
+    display: none;
+    border: 3px solid hsl(216, 80%, 55%);
+    margin-top: 1em;
+    border-radius: 5px;
+    padding: 0;
+    background-color: #fff;
+}
+
+.wai-datepicker .header {
+    cursor: default;
+    background-color: hsl(216, 80%, 55%);
+    padding: 7px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.wai-datepicker .header h2 {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    font-size: 1em;
+    color: white;
+    text-transform: none;
+    font-weight: bold;
+}
+
+.wai-datepicker .header button {
+    border-style: none;
+    background: transparent;
+}
+
+.wai-datepicker .datepickerDialog button::-moz-focus-inner {
+    border: 0;
+}
+
+.wai-datepicker .prevYear,
+.wai-datepicker .prevMonth,
+.wai-datepicker .nextMonth,
+.wai-datepicker .nextYear {
+    padding: 4px;
+    width: 24px;
+    height: 24px;
+    color: white;
+}
+
+.wai-datepicker .prevYear:focus,
+.wai-datepicker .prevMonth:focus,
+.wai-datepicker .nextMonth:focus,
+.wai-datepicker .nextYear:focus {
+    padding: 2px;
+    border: 2px solid white;
+    border-radius: 4px;
+    outline: 0;
+}
+
+.wai-datepicker .dialogButtonGroup {
+    text-align: right;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+.wai-datepicker .dialogButton {
+    padding: 5px;
+    margin-left: 1em;
+    width: 5em;
+    background-color: hsl(216, 80%, 92%);
+    font-size: 0.85em;
+    color: black;
+    outline: none;
+    border: 1px solid hsl(216, 80%, 92%);
+    border-radius: 5px;
+}
+
+.wai-datepicker .dialogButton:focus {
+    padding: 4px;
+    border: 2px solid black;
+}
+
+.wai-datepicker .fa-calendar-alt {
+    color: hsl(216, 89%, 72%);
+}
+
+.wai-datepicker .monthYear {
+    display: inline-block;
+    width: 12em;
+    text-align: center;
+}
+
+.wai-datepicker table.dates {
+    width: 100%;
+    padding: 1em;
+    padding-bottom: 0;
+    margin: 0;
+    border: none;
+    table-layout: fixed;
+}
+
+.wai-datepicker table.dates th,
+.wai-datepicker table.dates td {
+    text-align: center;
+}
+
+.wai-datepicker .dateRow {
+    border: 1px solid black;
+}
+
+.wai-datepicker .dateCell {
+    outline: 0;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 40px;
+}
+
+.wai-datepicker .dateButton {
+    padding: 0;
+    margin: 0;
+    line-height: inherit;
+    height: 100%;
+    width: 100%;
+    border: 1px solid #eee;
+    border-radius: 0;
+    font-size: 15px;
+    background: #eee;
+}
+
+.wai-datepicker .dateButton:focus,
+.wai-datepicker .dateButton:hover {
+    padding: 0;
+    background-color: hsl(216, 80%, 92%);
+}
+
+.wai-datepicker .dateButton:focus {
+    border-width: 2px;
+    border-color: rgb(100, 100, 100);
+    outline: 0;
+}
+
+.wai-datepicker .dateButton[aria-selected] {
+    border-color: rgb(100, 100, 100);
+}
+
+.wai-datepicker .dateButton[tabindex="0"] {
+    background-color: hsl(216, 80%, 92%);
+}
+
+.wai-datepicker .disabled {
+    color: #afafaf;
+}
+
+.wai-datepicker .disabled:hover {
+    color: black;
+}
+
+.wai-datepicker .dateButton:disabled {
+    color: #777;
+    background-color: #fff;
+    border: none;
+    cursor: not-allowed;
+}
+
+.wai-datepicker .message {
+    padding-top: 0.25em;
+    padding-left: 1em;
+    height: 1.75em;
+    background: hsl(216, 80%, 55%);
+    color: white;
+}

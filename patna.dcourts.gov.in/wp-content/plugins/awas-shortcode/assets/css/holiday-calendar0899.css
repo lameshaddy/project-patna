@@ -1,0 +1,466 @@
+.scalender-header {
+	position: relative;
+	padding: 1% 7%;
+	text-align: center;
+	background: #555;
+	color: #fff;
+	font-size: 140%;
+	border: 1px solid #555;
+}
+
+.scalender-header .scalender-prev,
+.scalender-header .scalender-next {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 7%;
+	padding: 1% 0;
+	font-size: 140%;
+	cursor: pointer;
+	transition: 0.3s ease-in;
+	color: #fff;
+	font-family: FontAwesome;
+}
+
+.scalender-header .scalender-next {
+	left: inherit;
+	right: 0;
+}
+
+.scalender-header .scalender-prev:hover,
+.scalender-header .scalender-next:hover {
+	background: #444;
+}
+
+.scalender-container ul {
+	float: left;
+	width: 100%;
+	padding: 0 10px 10px;
+	margin: 0;
+	text-align: center;
+	background: #d2dae2;
+}
+
+.scalender-container .scalender-days-list ul li {
+	background: #fff;
+}
+
+.scalender-container .scalender-header-days-name ul li {
+	font-weight: 600;
+}
+
+.scalender-container .scalender-days-list ul li,
+.scalender-container .scalender-header-days-name ul li {
+	border-right: 1px solid #d2dae2;
+	border-bottom: 1px solid #d2dae2;
+	list-style: none;
+	padding: 15% 0;
+	font-size: 125%;
+	position: relative;
+}
+
+.scalender-header-days-name ul li:last-child {
+	border-right: 1px solid #d2dae2;
+}
+
+.scalender-container ul li.has-holidays {
+	padding: 0;
+}
+
+.scalender-container .scalender-days-list ul li:hover {
+	background: rgb(0, 0, 0, 0.1);
+}
+
+.contrast .scalender-container ul li:hover {
+	background: rgb(255, 255, 255, 0.2);
+}
+
+.scalender-container ul li.has-holidays a {
+	padding: 15% 0;
+	display: block;
+	color: #ffffff;
+}
+
+.scalender-days-inner ul li:nth-child(7n) {
+	border-right: none;
+}
+
+.scalender-header-days-name {
+	background: #d2dae2;
+	color: #000;
+}
+
+.contrast .scalender-header-days-name {
+	background: #000
+}
+
+.h-tooltip {
+	display: none;
+	position: absolute;
+	font-size: 13px;
+	text-transform: initial;
+	background: #333;
+	color: #fff;
+	padding: 10px 5px;
+	left: -50px;
+	right: -50px;
+	z-index: 2;
+	bottom: 100%;
+	text-align: left;
+	max-width: 300px;
+}
+
+.h-tooltip:after {
+	content: "";
+	border: 7px solid transparent;
+	border-bottom: 0;
+	border-top: 7px solid #333;
+	position: absolute;
+	bottom: -7px;
+	left: 50%;
+	margin-left: -3.5px;
+}
+
+.h-tooltip p {
+	margin: 0;
+}
+
+.scalender-days-inner ul li:hover .h-tooltip,
+.scalender-days-inner ul li a:focus+.h-tooltip {
+	display: block;
+}
+
+.scalender-header-days-name ul,
+.scalender-days-inner ul {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+}
+
+.scalender-days-inner {
+	border: 1px solid #ccc;
+}
+
+.scalender-container .scalender-days-list ul li:nth-child(7n+1):nth-last-child(-n+7),
+.scalender-container .scalender-days-list ul li:nth-child(7n+1):nth-last-child(-n+7)~li {
+	border-bottom: none;
+}
+
+.scalender-header-days-name ul li {
+	padding: 10px 0;
+}
+
+.scalender-container ul li a>span.cl-holiday-past {
+	background: #555555;
+}
+
+.scalender-container ul li a>span.cl-holiday {
+	background: #01bb64;
+}
+
+.scalender-container ul li a>span.cl-holiday-up {
+	background: #0078d7;
+}
+
+.scalender-holidays-by-date {
+	display: none;
+	visibility: hidden;
+	color: #ccc;
+	position: absolute;
+	top: 0px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgb(0, 0, 0, 0.87);
+}
+
+.scalender-holidays-date-heading {
+	height: 8%;
+	text-align: center;
+	padding: 5px 5px;
+	border-bottom: 1px solid #d2dae2;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.blank-date {
+	visibility: hidden;
+	background-color: #d2dae2;
+}
+
+
+.holiday-type-info ul {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	padding: 15px 15px;
+	margin: 15px 0 0 0;
+	border: 1px solid #ccc;
+	column-gap: 5px;
+}
+
+.holiday-type-info ul li {
+	padding: 0;
+	list-style-type: none;
+	border: none;
+	text-align: left;
+}
+
+.holiday-type-info li>span {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin-right: 5px;
+	background: #dab312;
+}
+
+.holiday-type-info li:nth-child(1)>span {
+	background: #e61340;
+}
+
+.holiday-type-info li:nth-child(2)>span {
+	background: #2dc909;
+}
+
+.holiday-type-info li:nth-child(3)>span {
+	background: #2aacea;
+}
+
+.scalender-container ul li.current-date {
+	background: #e3f0fd;
+	color: #0c71b9;
+}
+
+.contrast .scalender-container ul li.current-date {
+	background: #5e5c5c;
+	color: #fff;
+}
+
+.contrast .scalender-holidays-by-date {
+	border: 1px solid #3e3b3b;
+}
+
+.sc-holiday-btn {
+	position: absolute;
+	top: 2px;
+	font-size: 19px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.sc-close {
+	right: 5px;
+}
+
+.sc-back {
+	left: 5px;
+}
+
+.sc-close:hover,
+.sc-back:hover {
+	color: #fff !important;
+}
+
+.sc-holidays-list ul li {
+	text-align: left;
+	padding: 3px 5px;
+	font-size: 13px;
+	color: #dfdfdf;
+	border: none;
+	border-bottom: 1px solid #504b4b;
+	transition: 0.3s ease-in-out;
+}
+
+.sc-holidays-list ul li:hover {
+	background: rgb(255, 255, 255, 0.08);
+}
+
+.sc-holidays-list ul li:last-child {
+	border: none;
+}
+
+.sc-holidays-list ul li p {
+	margin: 0;
+}
+
+.sc-holidays-list {
+	overflow: hidden;
+	height: 92%;
+	padding: 5px;
+}
+
+.sc-holidays-list .sc-title a:hover {
+	color: #dfdfdf;
+}
+
+.sc-icon span {
+	margin-right: 5px;
+}
+
+.sc-location span {
+	font-size: 17px;
+}
+
+.scalender-container .scalender-days-list ul li.saturday .h-tooltip {
+	right: 0;
+	left: -63%;
+}
+
+.scalender-container .scalender-days-list ul li.saturday .h-tooltip:after {
+	right: 28%;
+	left: auto;
+}
+
+.scalender-container .scalender-days-list ul li.sunday .h-tooltip {
+	left: 0;
+	right: -100%;
+}
+
+.scalender-container .scalender-days-list ul li.sunday .h-tooltip:after {
+	left: 30%;
+}
+
+.scalender-container .scalender-days-list ul li.weekend {
+	background: #2aacea;
+	color: #fff;
+}
+
+.scalender-container .scalender-days-list ul li.vacations {
+	background: #dab312;
+}
+
+.scalender-container .scalender-days-list ul li.restricted {
+	background: #2dc909;
+}
+
+.scalender-container .scalender-days-list ul li.gazetted {
+	background: #e61340;
+}
+
+.scalender-days-inner {
+	position: relative;
+	/*min-height: 275px;*/
+}
+
+.sc-loader {
+	display: none;
+	position: absolute;
+	background: rgba(0, 0, 0, 0.5);
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 999;
+	font-size: 3em;
+	color: #fff;
+}
+
+.sc-loader span {
+	top: 50%;
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+	margin-top: -28px;
+	margin-left: -21px;
+}
+
+.contrast .scalender-container .scalender-days-list ul li.weekend,
+.contrast .scalender-container .scalender-days-list ul li.vacations,
+.contrast .scalender-container .scalender-days-list ul li.restricted,
+.contrast .scalender-container .scalender-days-list ul li.gazetted {
+	background: #444
+}
+
+.contrast .scalender-header {
+	background: #000;
+	border: 1px solid #ccc
+}
+
+.contrast .scalender-header-days-name ul li:last-child {
+	border-right: 1px solid #ccc;
+}
+
+.contrast .scalender-header-days-name ul li:first-child {
+	border-left: 1px solid #ccc;
+}
+
+.contrast .scalender-container ul {
+	background: #333;
+}
+
+.contrast .scalender-container .scalender-days-list ul li,
+.contrast .scalender-container .scalender-header-days-name ul li {
+	background: #222;
+}
+
+@media screen and (max-width: 992px) {
+	.scalender-header {
+		font-size: 120%;
+	}
+
+	.scalender-header .scalender-prev,
+	.scalender-header .scalender-next {
+		font-size: 120%;
+	}
+
+	.scalender-container ul li {
+		font-size: 100%;
+		padding: 10px 0;
+	}
+
+	.scalender-container ul li.has-holidays a {
+		padding: 10px 0;
+	}
+
+	.scalender-container .scalender-header-days-name ul li {
+		font-size: 100%;
+	}
+
+	.holiday-type-info ul {
+		padding: 0px 7px 0 5px;
+	}
+
+	.holiday-type-info ul li {
+		text-align: left
+	}
+
+}
+
+@media screen and (max-width: 767px) {
+	.scalender-container {
+		width: 85%;
+		margin: 0 auto;
+	}
+
+	.scalender-header {
+		font-size: 140%;
+	}
+
+	.scalender-header .scalender-prev,
+	.scalender-header .scalender-next {
+		font-size: 140%;
+	}
+
+	.scalender-container .scalender-days-list ul li,
+	.scalender-container .scalender-header-days-name ul li {
+		font-size: 100%;
+	}
+
+	.scalender-container ul li.has-holidays a {
+		padding: 15px 0;
+	}
+
+	.scalender-container ul li {
+		font-size: 100%;
+		padding: 15px 0;
+	}
+
+	.holiday-type-info ul {
+		padding: 15px 15px;
+	}
+
+	.holiday-type-info ul li {
+		text-align: center;
+		padding: 0;
+	}
+}
